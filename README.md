@@ -1,4 +1,8 @@
 <h1 align= "center"><b>Hello World! :earth_africa:</b></h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding">
+</p>
+
 
 <p align="center">
 I am a frontend developer from Egypt 🇪🇬. Passionate about enhancing user experience and making applications more interactive and seamless. I am constantly striving to improve my skills and contribute to open-source projects to support the developer community.
@@ -24,6 +28,31 @@ Fascinated by infinite space. Occupy Mars! :rocket:
 <code><a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
 
 <div align="center">
+
+**🛠 Skills:**
+
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript, React, Redux, Next.js  
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB, SQL Server  
+- **Tools:** Git, VS Code, Postman, Figma
+
+
+**📜 Timeline:**
+
+- 💻 2021: Started my coding journey.  
+- 🚀 2022: Built my first React application.  
+- 🌟 2024: Started contributing to open-source projects.
+
+**🎯 Future Goals:**
+
+- Master advanced React concepts like server-side rendering with Next.js.  
+- Contribute to large open-source projects.  
+- Build a full-stack application from scratch.  
+
+
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alifrag&show_icons=true&theme=radical)
+
 
 **📫 Reach me at:**<br>
 
