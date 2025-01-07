@@ -20,13 +20,14 @@ Fascinated by infinite space. Occupy Mars! :rocket:
 **🌱 Looking forward to learn:**
 
 <code><a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-ar21.svg"></a></code>
+
 <code><a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
 
 <div align="center">
 
 **📫 Reach me at:**<br>
 
-[![Linkedin: alifrag](https://img.shields.io/badge/-Mohitp98-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alifrag/)](https://www.linkedin.com/in/mp98/)
+[![Linkedin: alifrag](https://img.shields.io/badge/-alifrag-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alifrag/)](https://www.linkedin.com/in/mp98/)
 
 
 [![GitHub: alifrag23](https://img.shields.io/github/followers/alifrag23?label=alifrag23&style=social)](https://github.com/alifrag23)
