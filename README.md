@@ -16,10 +16,10 @@ Fascinated by infinite space. Occupy Mars! :rocket:
 <code><a href="https://www.typescriptlang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></a></code>
 
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+<code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+
 
 **🌱 Looking forward to learn:**
-
-<code><a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-ar21.svg"></a></code>
 
 <code><a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
 
