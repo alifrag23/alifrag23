@@ -9,22 +9,27 @@ Fascinated by infinite space. Occupy Mars! :rocket:
 
 **🌱 Currently working on:**
 
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></a></code>
+<code><a href="https://getbootstrap.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></a></code>
+<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
+<code><a href="https://www.typescriptlang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></a></code>
+
+<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+<code><a href="https://redux.js.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reduxjs/reduxjs-ar21.svg"></a></code>
 <code><a href="https://nextjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg"></a></code>
 
 **🌱 Looking forward to learn:**
 
-<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-<code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
+<code><a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-ar21.svg"></a></code>
+<code><a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
 
 <div align="center">
 
 **📫 Reach me at:**<br>
 
-[![LinkedIn: Your Name](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile/)](https://www.linkedin.com/in/yourprofile/)
-<a href="https://instagram.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/@yourhandle-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-[![Twitter: Your Handle](https://img.shields.io/twitter/follow/YourHandle?style=social)](https://twitter.com/YourHandle)
-[![GitHub: Your GitHub](https://img.shields.io/github/followers/YourGitHub?label=YourGitHub&style=social)](https://github.com/YourGitHub)
+[![LinkedIn: alifarg](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile/)](https://www.linkedin.com/in/yourprofile/)
+[![GitHub: alifrag23](https://img.shields.io/github/followers/YourGitHub?label=YourGitHub&style=social)](https://github.com/YourGitHub)
 
 <div align="center">
 
@@ -32,4 +37,3 @@ Fascinated by infinite space. Occupy Mars! :rocket:
 
 </div>  
 
-⭐️ From [YourGitHub](https://github.com/YourGitHub)
