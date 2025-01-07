@@ -27,7 +27,7 @@ Fascinated by infinite space. Occupy Mars! :rocket:
 
 <code><a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
 
-<div align="center">
+<div align="start">
 
 **🛠 Skills:**
 
@@ -51,7 +51,7 @@ Fascinated by infinite space. Occupy Mars! :rocket:
 
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alifrag&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alifrag23&show_icons=true&theme=radical)
 
 
 **📫 Reach me at:**<br>
