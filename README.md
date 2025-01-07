@@ -26,8 +26,10 @@ Fascinated by infinite space. Occupy Mars! :rocket:
 
 **📫 Reach me at:**<br>
 
-[![LinkedIn: alifarg](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alifrag/)](https://www.linkedin.com/in/yourprofile/)
-[![GitHub: alifrag23](https://img.shields.io/github/followers/YourGitHub?label=YourGitHub&style=social)](https://github.com/alifrag23)
+[![Linkedin: alifrag](https://img.shields.io/badge/-Mohitp98-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alifrag/)](https://www.linkedin.com/in/mp98/)
+
+
+[![GitHub: alifrag23](https://img.shields.io/github/followers/alifrag23?label=alifrag23&style=social)](https://github.com/alifrag23)
 
 <div align="center">
 
