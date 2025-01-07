@@ -16,8 +16,6 @@ Fascinated by infinite space. Occupy Mars! :rocket:
 <code><a href="https://www.typescriptlang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></a></code>
 
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-<code><a href="https://redux.js.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reduxjs/reduxjs-ar21.svg"></a></code>
-<code><a href="https://nextjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg"></a></code>
 
 **🌱 Looking forward to learn:**
 
@@ -28,12 +26,11 @@ Fascinated by infinite space. Occupy Mars! :rocket:
 
 **📫 Reach me at:**<br>
 
-[![LinkedIn: alifarg](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile/)](https://www.linkedin.com/in/yourprofile/)
-[![GitHub: alifrag23](https://img.shields.io/github/followers/YourGitHub?label=YourGitHub&style=social)](https://github.com/YourGitHub)
+[![LinkedIn: alifarg](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alifrag/)](https://www.linkedin.com/in/yourprofile/)
+[![GitHub: alifrag23](https://img.shields.io/github/followers/YourGitHub?label=YourGitHub&style=social)](https://github.com/alifrag23)
 
 <div align="center">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=YourGitHub.visitor-badge)
 
 </div>  
 
